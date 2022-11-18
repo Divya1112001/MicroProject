@@ -145,12 +145,10 @@ namespace Infinite.Casestudy1
             // std.enroll();
 
             StudentScreen st = new StudentScreen();
-            //st.ShowFirstScreen();
+            st.ShowFirstScreen();
 
 
-            Connection1 I1 = new Connection1();
-            //I1.std();
-            // I1.cour();
+           
            
 
             Console.Read();
