@@ -1,0 +1,7 @@
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\bin\Debug\Infinite.Casestudy1.exe.config
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\bin\Debug\Infinite.Casestudy1.exe
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\bin\Debug\Infinite.Casestudy1.pdb
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\obj\Debug\Infinite.Casestudy1.csproj.AssemblyReference.cache
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\obj\Debug\Infinite.Casestudy1.csproj.CoreCompileInputs.cache
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\obj\Debug\Infinite.Casestudy1.exe
+C:\Csharp\DotNetTraining\Infinite.Casestudy1\Infinite.Casestudy1\obj\Debug\Infinite.Casestudy1.pdb
